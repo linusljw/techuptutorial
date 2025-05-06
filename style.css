@@ -1,3 +1,28 @@
-h1{
+/*h1{
     color: red;
+    background-color:wheat;
+
+    text-align: center;
+    border: 10px black solid;
+
+    margin-bottom: 100px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}*/
+
+h1{
+    color:black;
+}
+
+.title{
+   background-color: wheat;
+}
+
+.title2{
+    background-color: yellowgreen;
+}
+
+#important{
+    color:red;
 }
