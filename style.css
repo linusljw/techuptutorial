@@ -13,6 +13,7 @@
 
 h1{
     color:black;
+    border: 5px orange dotted; 
 }
 
 .title{
@@ -20,9 +21,22 @@ h1{
 }
 
 .title2{
-    background-color: yellowgreen;
+    background-color:brown;
 }
 
 #important{
-    color:red;
+    color:whitesmoke;
 }
+
+#dateLabel{
+    background-color:aquamarine;
+}
+
+body{
+    background-color:darksalmon;
+}
+
+#hello{
+    margin-left: 45%;
+}
+
